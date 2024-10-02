@@ -15,29 +15,29 @@
 * Machine Learning Model 1:
     * Class 0 (healthy loan):
 
-    Precision: 1.00 (the model is perfect in predicting healthy loans)
-    Recall: 0.99 (the model correctly identifies 99% of actual healthy loans)
-    F1-score: 1.00 (the harmonic mean of precision and recall is perfect)
-    Support: 18,765 (the number of actual healthy loan instances)
+    * Precision: 1.00 (the model is perfect in predicting healthy loans)
+    * Recall: 0.99 (the model correctly identifies 99% of actual healthy loans)
+    * F1-score: 1.00 (the harmonic mean of precision and recall is perfect)
+    * Support: 18,765 (the number of actual healthy loan instances)
     
     * Class 1 (high-risk loan):
 
-    Precision: 0.85 (the model correctly predicts 85% of high-risk loans)
-    Recall: 0.91 (the model correctly identifies 91% of actual high-risk loans)
-    F1-score: 0.88 (the harmonic mean of precision and recall)
-    Support: 619 (the number of actual high-risk loan instances)
-    Overall Accuracy: 0.99 (the model's overall accuracy across both classes)
+    * Precision: 0.85 (the model correctly predicts 85% of high-risk loans)
+    * Recall: 0.91 (the model correctly identifies 91% of actual high-risk loans)
+    * F1-score: 0.88 (the harmonic mean of precision and recall)
+    * Support: 619 (the number of actual high-risk loan instances)
+    * Overall Accuracy: 0.99 (the model's overall accuracy across both classes)
 
-    Macro Average:
+    * Macro Average:
 
-    Precision: 0.92
-    Recall: 0.95
-    F1-score: 0.94
-    Weighted Average:
+    * Precision: 0.92
+    * Recall: 0.95
+    * F1-score: 0.94
+    * Weighted Average:
 
-    Precision: 0.99
-    Recall: 0.99
-    F1-score: 0.99
+    * Precision: 0.99
+    * Recall: 0.99
+    * F1-score: 0.99
 
 ## Summary
 
